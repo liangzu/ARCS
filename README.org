@@ -1,6 +1,6 @@
 #+TITLE: ARCS: Accurate Rotation and Correspondence Search
 
-This repository includes an implementation of the methods described in:
+This repository implements the methods described in:
 #+BEGIN_EXAMPLE
 L. Peng, M. Tsakiris, and R. Vidal, ARCS: Accurate rotation and correspondence search, CVPR 2022
 #+END_EXAMPLE
