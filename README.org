@@ -1,4 +1,4 @@
-#+TITLE: Accurate Rotation and Correspondence Search (CVPR 2022 oral)
+#+TITLE: ARCS: Accurate Rotation and Correspondence Search
 
 This repository implements the methods described in:
 #+BEGIN_EXAMPLE
