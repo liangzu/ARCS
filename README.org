@@ -1,12 +1,16 @@
-#+TITLE: ARCS: Accurate Rotation and Correspondence Search
+#+TITLE: Accurate Rotation and Correspondence Search (CVPR 2022 oral)
 
 This repository implements the methods described in:
 #+BEGIN_EXAMPLE
 L. Peng, M. Tsakiris, and R. Vidal, ARCS: Accurate rotation and correspondence search, CVPR 2022
 #+END_EXAMPLE
 
+Here is the arXiv link: https://arxiv.org/abs/2203.14493
+
 Use *test_ARCS.m*, *test_ARCSplus.m*, and *test_ARCSplus_OR.m* to
 start with.
 
 
 Kindly cite the paper if you have found it helpful in your research.
+
+Send me an email if appropriate.
